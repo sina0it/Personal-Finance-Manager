@@ -65,6 +65,9 @@ Language, currency, RTL/LTR layout, numbers, and date formatting automatically a
 📧 [sinanaderi203@gmail.com](mailto:sinanaderi203@gmail.com)\
 📸 Instagram: @sina__it\
 ✈️ Telegram: @sina_6
+> Sina Finance — Track • Analyze • Plan • Grow
+>
+> Built for a smarter financial life.
 
 <img width="1536" height="1024" alt="sina" src="https://github.com/user-attachments/assets/12519437-7038-4669-8993-fb0b12dcd331" />
 
@@ -114,11 +117,11 @@ Sina Finance در ابتدا برای دو بازار طراحی شده است:
 زبان، واحد پول، چیدمان RTL/LTR، اعداد و قالب‌بندی تاریخ به‌صورت خودکار با محیط انتخاب‌شده سازگار می‌شوند.
 🧑‍💻 توسعه‌دهنده
 سینا نادری
+
+
 📧 sinanaderi203@gmail.com
 📸 اینستاگرام: @sina__it
 ✈️ تلگرام: @sina_6
 Sina Finance — پیگیری • تحلیل • برنامه‌ریزی • رشد
-ساخته‌شده برای یک زندگی مالی هوشمندتر.
-> Sina Finance — Track • Analyze • Plan • Grow
->
-> Built for a smarter financial life.
+ساخته‌شده برای یک زندگی مالی هوشمندتر
+.
