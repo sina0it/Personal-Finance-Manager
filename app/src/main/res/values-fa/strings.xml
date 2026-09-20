@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">سینا فایننس</string>
+    <string name="tagline">مدیریت مالی شخصی هوشمند</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_accounts">حساب‌ها</string>
+    <string name="nav_analytics">گزارش‌ها</string>
+    <string name="nav_transactions">تراکنش‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_calendar">تقویم مالی</string>
+    <string name="nav_budgets">بودجه‌بندی</string>
+    <string name="nav_debts">بدهی و طلب</string>
+
+    <!-- Common Actions -->
+    <string name="action_add">افزودن</string>
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">ویرایش</string>
+    <string name="action_share">اشتراک‌گذاری</string>
+    <string name="action_export">خروجی گرفتن</string>
+    <string name="action_filter">فیلتر</string>
+    <string name="action_search">جستجو</string>
+    <string name="action_clear">پاکسازی</string>
+    <string name="action_confirm">تأیید</string>
+    <string name="action_skip">رد شدن</string>
+    <string name="action_continue">ادامه</string>
+    <string name="action_get_started">شروع کنید</string>
+    <string name="action_review">بررسی</string>
+    <string name="action_ignore">نادیده گرفتن</string>
+    <string name="action_duplicate">تکرار</string>
+    <string name="action_archive">بایگانی</string>
+
+    <!-- Financial Terms -->
+    <string name="total_balance">موجودی کل</string>
+    <string name="income">درآمد</string>
+    <string name="expense">هزینه</string>
+    <string name="transfer">انتقال</string>
+    <string name="savings">پس‌انداز</string>
+    <string name="net_cash_flow">گردش خالص مالی</string>
+    <string name="budget_usage">مصرف بودجه</string>
+    <string name="upcoming_payments">پرداخت‌های پیش‌رو</string>
+    <string name="recent_transactions">تراکنش‌های اخیر</string>
+
+    <!-- Currency & Country -->
+    <string name="currency_toman">تومان ایران</string>
+    <string name="currency_usd">دلار آمریکا</string>
+    <string name="country_iran">ایران</string>
+    <string name="country_usa">ایالات متحده</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_english">انگلیسی</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">به سینا فایننس خوش آمدید</string>
+    <string name="onboarding_welcome_desc">مدیریت مالی شخصی لوکس، امن و هوشمند شما. کنترل کامل درآمدها و هزینه‌های خود را در دست بگیرید.</string>
+    <string name="onboarding_lang_title">انتخاب زبان</string>
+    <string name="onboarding_country_title">انتخاب کشور</string>
+    <string name="onboarding_currency_title">تأیید واحد پولی</string>
+    <string name="onboarding_currency_note">زبان و واحد پول به‌صورت خودکار هماهنگ هستند. شما می‌توانید در هر زمان پروفایل مالی خود را بدون از دست دادن اطلاعات تغییر دهید.</string>
+    <string name="onboarding_privacy_title">حریم خصوصی شما اولویت ماست</string>
+    <string name="onboarding_privacy_desc">سینا فایننس کاملاً آفلاین‌محور است. داده‌های مالی شما به صورت امن روی دستگاه ذخیره می‌شود. بدون ردیابی و بدون ارسال پیامک‌ها به سرور.</string>
+    <string name="onboarding_google_title">پشتیبان‌گیری ابری (اختیاری)</string>
+    <string name="onboarding_google_desc">برای ذخیره و بازیابی امن داده‌های مالی خود به حساب گوگل متصل شوید.</string>
+    <string name="onboarding_sms_title">تشخیص پیامک بانکی (اختیاری)</string>
+    <string name="onboarding_sms_desc">تشخیص خودکار پیامک‌های واریز و برداشت بانکی. پیامک‌ها فقط روی گوشی شما تحلیل می‌شوند و رمزهای پویا هرگز ذخیره نمی‌شوند.</string>
+    <string name="sign_in_google">ورود با حساب گوگل</string>
+    <string name="signed_in_as">وارد شده به عنوان: %1$s</string>
+
+    <!-- Transaction Form -->
+    <string name="add_transaction">ثبت تراکنش جدید</string>
+    <string name="edit_transaction">ویرایش تراکنش</string>
+    <string name="amount">مبلغ</string>
+    <string name="category">دسته‌بندی</string>
+    <string name="account">حساب / کارت</string>
+    <string name="from_account">از حساب</string>
+    <string name="to_account">به حساب</string>
+    <string name="date">تاریخ</string>
+    <string name="time">ساعت</string>
+    <string name="note">توضیحات / یادداشت</string>
+    <string name="optional_note">یادداشت اختیاری بنویسید…</string>
+    <string name="tag">برچسب‌ها</string>
+
+    <!-- Accounts -->
+    <string name="accounts_title">حساب‌ها و کارت‌ها</string>
+    <string name="add_account">افزودن حساب جدید</string>
+    <string name="account_name">نام حساب</string>
+    <string name="account_type">نوع حساب</string>
+    <string name="account_balance">موجودی اولیه</string>
+    <string name="account_bank_name">نام بانک (اختیاری)</string>
+    <string name="account_card_mask">۴ رقم آخر کارت (اختیاری)</string>
+    <string name="account_type_cash">کیف پول نقدی</string>
+    <string name="account_type_bank">حساب بانکی</string>
+    <string name="account_type_card">کارت بانکی</string>
+    <string name="account_type_savings">حساب پس‌انداز</string>
+    <string name="account_type_credit">اعتبار / وام</string>
+
+    <!-- Categories -->
+    <string name="categories_title">دسته‌بندی‌ها</string>
+    <string name="add_category">افزودن دسته</string>
+    <string name="cat_salary">حقوق و دستمزد</string>
+    <string name="cat_freelance">پروژه و فریلنسری</string>
+    <string name="cat_business">کسب‌وکار</string>
+    <string name="cat_investment">سرمایه‌گذاری</string>
+    <string name="cat_gift">هدیه و پاداش</string>
+    <string name="cat_other_income">سایر درآمدها</string>
+    <string name="cat_food">خوراک و رستوران</string>
+    <string name="cat_shopping">خرید و پوشاک</string>
+    <string name="cat_transport">حمل‌ونقل</string>
+    <string name="cat_fuel">سوخت و بنزین</string>
+    <string name="cat_bills">قبوض و اینترنت</string>
+    <string name="cat_rent">اجاره و مسکن</string>
+    <string name="cat_entertainment">تفریح و سرگرمی</string>
+    <string name="cat_health">پزشکی و درمان</string>
+    <string name="cat_education">آموزش و یادگیری</string>
+    <string name="cat_travel">سفر و اقامت</string>
+    <string name="cat_subscriptions">اشتراک‌ها</string>
+    <string name="cat_insurance">بیمه</string>
+    <string name="cat_other_expense">سایر هزینه‌ها</string>
+
+    <!-- Budgets -->
+    <string name="budgets_header">بودجه‌بندی ماهانه</string>
+    <string name="add_budget">تعریف بودجه جدید</string>
+    <string name="budget_amount">سقف بودجه</string>
+    <string name="budget_spent">خرج شده: %1$s</string>
+    <string name="budget_remaining">باقیمانده: %1$s</string>
+    <string name="budget_warning_near">هشدار مصرف: %1$d٪ از بودجه مصرف شده</string>
+    <string name="budget_warning_exceeded">بودجه به میزان %1$s تمام شده است!</string>
+
+    <!-- Debts & Installments -->
+    <string name="debts_i_owe">بدهی‌ها (طلب دیگران)</string>
+    <string name="debts_owed_to_me">طلب‌ها (بدهی دیگران)</string>
+    <string name="add_debt">ثبت قرض / بدهی</string>
+    <string name="installments_title">اقساط ماهانه</string>
+    <string name="add_installment">ثبت قسط جدید</string>
+    <string name="person_company">شخص یا سازمان</string>
+    <string name="due_date">موعد سررسید</string>
+    <string name="remaining_installments">اقساط باقیمانده: %1$d از %2$d</string>
+
+    <!-- SMS Banking -->
+    <string name="sms_banking_title">تشخیص پیامک بانکی</string>
+    <string name="sms_enable_toggle">فعال‌سازی تشخیص پیامک‌های بانکی</string>
+    <string name="sms_privacy_warning">برای تشخیص خودکار تراکنش‌ها، سینا فایننس نیاز به دسترسی پیامک‌های واریز و برداشت دارد. پیامک‌ها فقط داخل دستگاه تحلیل می‌شوند و هیچ پیام شخصی یا رمز پویایی ذخیره نمی‌شود.</string>
+    <string name="sms_permission_granted">دسترسی پیامک: فعال است</string>
+    <string name="sms_permission_denied">دسترسی پیامک: غیرفعال</string>
+    <string name="sms_scan_inbox">اسکن پیامک‌های قبلی از صندوق پیام</string>
+    <string name="sms_pending_title">تراکنش‌های در انتظار تأیید</string>
+    <string name="sms_no_pending">تراکنش پیامکی جدیدی یافت نشد</string>
+    <string name="sms_detected_notification_title">تراکنش بانکی شناسایی شد</string>
+    <string name="sms_detected_notification_body">%1$s • %2$s در %3$s</string>
+    <string name="sms_confidence">اطمینان تشخیص: %1$d٪</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_restore_title">پشتیبان‌گیری و بازیابی</string>
+    <string name="backup_now">پشتیبان‌گیری فوری</string>
+    <string name="restore_backup">بازیابی اطلاعات</string>
+    <string name="automatic_backup">پشتیبان‌گیری خودکار ابری</string>
+    <string name="last_backup">آخرین پشتیبان: %1$s</string>
+    <string name="backup_status">وضعیت: %1$s</string>
+    <string name="backup_size">حجم: %1$s</string>
+    <string name="delete_cloud_backup">حذف نسخه ابری</string>
+    <string name="restore_dialog_title">بازیابی اطلاعات مالی</string>
+    <string name="restore_dialog_desc">بازیابی فایل پشتیبان می‌تواند داده‌های فعلی شما را ادغام کرده یا جایگزین کند. لطفاً روش را انتخاب کنید:</string>
+    <string name="restore_replace">جایگزینی داده‌های فعلی</string>
+    <string name="restore_merge">ادغام با داده‌های فعلی</string>
+
+    <!-- Export -->
+    <string name="export_excel">خروجی فایل اکسل (.xlsx)</string>
+    <string name="export_pdf">خروجی گزارش تصویری PDF</string>
+    <string name="export_success">گزارش با موفقیت ایجاد شد</string>
+    <string name="export_select_range">انتخاب بازه زمانی</string>
+
+    <!-- Security & Privacy -->
+    <string name="security_center">مرکز امنیت</string>
+    <string name="privacy_center">حریم خصوصی</string>
+    <string name="app_lock">قفل با پین‌کد</string>
+    <string name="set_pin">تنظیم پین ۴ رقمی</string>
+    <string name="enter_pin">ورود پین</string>
+    <string name="confirm_pin">تکرار پین</string>
+    <string name="delete_all_data">حذف کامل داده‌های محلی</string>
+    <string name="delete_all_data_confirm">آیا مطمئن هستید که می‌خواهید تمام اطلاعات مالی روی این دستگاه را حذف کنید؟ این عمل غیرقابل بازگشت است.</string>
+
+    <!-- Developer & About -->
+    <string name="about_developer">درباره توسعه‌دهنده</string>
+    <string name="developer_name">سینا نادری (Sina Naderi)</string>
+    <string name="developer_email">sinanaderi203@gmail.com</string>
+    <string name="developer_instagram">@sina__it</string>
+    <string name="developer_telegram">@sina_6</string>
+    <string name="app_version_label">نسخه ۱.۰.۰ (تولیدی)</string>
+    <string name="copyright">© ۲۰۲۶ سینا نادری. تمامی حقوق محفوظ است.</string>
+
+    <!-- Empty States -->
+    <string name="empty_transactions">سفر مالی شما از اینجا آغاز می‌شود.</string>
+    <string name="empty_transactions_sub">دکمه + پایین صفحه را لمس کنید تا اولین درآمد یا هزینه خود را ثبت نمایید.</string>
+    <string name="empty_accounts">اولین حساب خود را اضافه کنید.</string>
+    <string name="empty_accounts_sub">کارت‌ها و حساب‌های بانکی خود را تعریف کنید تا موجودی دقیق داشته باشید.</string>
+    <string name="empty_budgets">برای مدیریت بهتر هزینه‌ها یک بودجه ماهانه تعریف کنید.</string>
+    <string name="empty_sms">هیچ تراکنش پیامکی جدیدی ثبت نشده است.</string>
+    <string name="empty_debts">هیچ بدهی یا طلبی ثبت نشده است.</string>
+</resources>

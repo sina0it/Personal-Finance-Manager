@@ -1,0 +1,6 @@
+{
+  "name": "Sina Finance",
+  "description": "Personal Finance Manager with multi-currency support (Toman & USD), bilingual Persian and English support, bank SMS detection, financial analytics, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

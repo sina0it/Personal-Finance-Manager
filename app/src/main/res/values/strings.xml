@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Sina Finance</string>
+    <string name="tagline">Personal Finance Manager</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_debts">Debts &amp; Loans</string>
+
+    <!-- Common Actions -->
+    <string name="action_add">Add</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_share">Share</string>
+    <string name="action_export">Export</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_get_started">Get Started</string>
+    <string name="action_review">Review</string>
+    <string name="action_ignore">Ignore</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_archive">Archive</string>
+
+    <!-- Financial Terms -->
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="transfer">Transfer</string>
+    <string name="savings">Savings</string>
+    <string name="net_cash_flow">Net Cash Flow</string>
+    <string name="budget_usage">Budget Usage</string>
+    <string name="upcoming_payments">Upcoming Payments</string>
+    <string name="recent_transactions">Recent Transactions</string>
+
+    <!-- Currency & Country -->
+    <string name="currency_toman">Iranian Toman</string>
+    <string name="currency_usd">US Dollar</string>
+    <string name="country_iran">Iran</string>
+    <string name="country_usa">United States</string>
+    <string name="lang_persian">Persian (فارسی)</string>
+    <string name="lang_english">English (US)</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to Sina Finance</string>
+    <string name="onboarding_welcome_desc">Your luxury, private, and intelligent personal finance manager. Take full control of your wealth.</string>
+    <string name="onboarding_lang_title">Select Language</string>
+    <string name="onboarding_country_title">Select Country</string>
+    <string name="onboarding_currency_title">Confirm Currency</string>
+    <string name="onboarding_currency_note">Language and currency are linked automatically. You can switch financial profiles at any time without losing data.</string>
+    <string name="onboarding_privacy_title">Your Privacy Matters</string>
+    <string name="onboarding_privacy_desc">Sina Finance is strictly offline-first. Your financial data stays securely on your device. No unwanted tracking, no raw SMS upload.</string>
+    <string name="onboarding_google_title">Cloud Backup (Optional)</string>
+    <string name="onboarding_google_desc">Sign in to securely back up and restore your financial data to your private Google Drive space.</string>
+    <string name="onboarding_sms_title">Bank SMS Detection (Optional)</string>
+    <string name="onboarding_sms_desc">Automatically detect incoming bank transaction SMS messages. Data is parsed only on your phone. Passwords and OTPs are never stored.</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="signed_in_as">Signed in as %1$s</string>
+
+    <!-- Transaction Form -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="account">Account</string>
+    <string name="from_account">From Account</string>
+    <string name="to_account">To Account</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="note">Note / Description</string>
+    <string name="optional_note">Add an optional note…</string>
+    <string name="tag">Tags</string>
+
+    <!-- Accounts -->
+    <string name="accounts_title">Accounts &amp; Wallets</string>
+    <string name="add_account">Add Account</string>
+    <string name="account_name">Account Name</string>
+    <string name="account_type">Account Type</string>
+    <string name="account_balance">Initial Balance</string>
+    <string name="account_bank_name">Bank Name (Optional)</string>
+    <string name="account_card_mask">Masked Card (e.g. 1234)</string>
+    <string name="account_type_cash">Cash Wallet</string>
+    <string name="account_type_bank">Bank Account</string>
+    <string name="account_type_card">Debit / Credit Card</string>
+    <string name="account_type_savings">Savings Account</string>
+    <string name="account_type_credit">Credit Line</string>
+
+    <!-- Categories -->
+    <string name="categories_title">Categories</string>
+    <string name="add_category">Add Category</string>
+    <string name="cat_salary">Salary</string>
+    <string name="cat_freelance">Freelance</string>
+    <string name="cat_business">Business</string>
+    <string name="cat_investment">Investment</string>
+    <string name="cat_gift">Gift</string>
+    <string name="cat_other_income">Other Income</string>
+    <string name="cat_food">Food &amp; Dining</string>
+    <string name="cat_shopping">Shopping</string>
+    <string name="cat_transport">Transportation</string>
+    <string name="cat_fuel">Fuel &amp; Gas</string>
+    <string name="cat_bills">Bills &amp; Utilities</string>
+    <string name="cat_rent">Rent &amp; Housing</string>
+    <string name="cat_entertainment">Entertainment</string>
+    <string name="cat_health">Health &amp; Medical</string>
+    <string name="cat_education">Education</string>
+    <string name="cat_travel">Travel</string>
+    <string name="cat_subscriptions">Subscriptions</string>
+    <string name="cat_insurance">Insurance</string>
+    <string name="cat_other_expense">Other Expense</string>
+
+    <!-- Budgets -->
+    <string name="budgets_header">Monthly Budgets</string>
+    <string name="add_budget">Set Budget</string>
+    <string name="budget_amount">Budget Limit</string>
+    <string name="budget_spent">Spent: %1$s</string>
+    <string name="budget_remaining">Remaining: %1$s</string>
+    <string name="budget_warning_near">Approaching budget limit (%1$d%% used)</string>
+    <string name="budget_warning_exceeded">Budget exceeded by %1$s!</string>
+
+    <!-- Debts & Installments -->
+    <string name="debts_i_owe">Money I Owe</string>
+    <string name="debts_owed_to_me">Money Owed to Me</string>
+    <string name="add_debt">Add Debt / Loan</string>
+    <string name="installments_title">Installments</string>
+    <string name="add_installment">Add Installment</string>
+    <string name="person_company">Person / Institution</string>
+    <string name="due_date">Due Date</string>
+    <string name="remaining_installments">Remaining: %1$d of %2$d</string>
+
+    <!-- SMS Banking -->
+    <string name="sms_banking_title">Bank SMS Detection</string>
+    <string name="sms_enable_toggle">Enable Automatic Bank SMS Detection</string>
+    <string name="sms_privacy_warning">To automatically detect bank transactions, Sina Finance needs access to relevant SMS messages. SMS data is sensitive. Only enable this feature if you are comfortable granting this permission.</string>
+    <string name="sms_permission_granted">SMS Permission: Granted</string>
+    <string name="sms_permission_denied">SMS Permission: Not Granted</string>
+    <string name="sms_scan_inbox">Scan Eligible SMS from Inbox</string>
+    <string name="sms_pending_title">Transactions Pending Review</string>
+    <string name="sms_no_pending">No pending SMS transactions</string>
+    <string name="sms_detected_notification_title">Bank Transaction Detected</string>
+    <string name="sms_detected_notification_body">%1$s • %2$s at %3$s</string>
+    <string name="sms_confidence">Confidence: %1$d%%</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_restore_title">Backup &amp; Restore</string>
+    <string name="backup_now">Back Up Now</string>
+    <string name="restore_backup">Restore Backup</string>
+    <string name="automatic_backup">Automatic Cloud Backup</string>
+    <string name="last_backup">Last Backup: %1$s</string>
+    <string name="backup_status">Status: %1$s</string>
+    <string name="backup_size">Size: %1$s</string>
+    <string name="delete_cloud_backup">Delete Cloud Backup</string>
+    <string name="restore_dialog_title">Restore Financial Data</string>
+    <string name="restore_dialog_desc">Restoring this backup may replace or merge your current financial data. Please choose an option:</string>
+    <string name="restore_replace">Replace Current Data</string>
+    <string name="restore_merge">Merge with Current Data</string>
+
+    <!-- Export -->
+    <string name="export_excel">Export to Excel (.xlsx)</string>
+    <string name="export_pdf">Export to PDF Report</string>
+    <string name="export_success">Report generated successfully</string>
+    <string name="export_select_range">Select Date Range</string>
+
+    <!-- Security & Privacy -->
+    <string name="security_center">Security Center</string>
+    <string name="privacy_center">Privacy Center</string>
+    <string name="app_lock">App PIN Lock</string>
+    <string name="set_pin">Set 4-Digit PIN</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="delete_all_data">Delete All Local Data</string>
+    <string name="delete_all_data_confirm">Are you sure you want to permanently delete all financial records from this device? This action cannot be undone.</string>
+
+    <!-- Developer & About -->
+    <string name="about_developer">About Developer</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinanaderi203@gmail.com</string>
+    <string name="developer_instagram">@sina__it</string>
+    <string name="developer_telegram">@sina_6</string>
+    <string name="app_version_label">Version 1.0.0 (Production)</string>
+    <string name="copyright">© 2026 Sina Naderi. All rights reserved.</string>
+
+    <!-- Empty States -->
+    <string name="empty_transactions">Your financial journey starts here.</string>
+    <string name="empty_transactions_sub">Tap the + button below to log your first income or expense.</string>
+    <string name="empty_accounts">Add your first account.</string>
+    <string name="empty_accounts_sub">Create wallets, bank accounts or cards to track your balances.</string>
+    <string name="empty_budgets">Create a budget to control your spending.</string>
+    <string name="empty_sms">No bank transactions detected.</string>
+    <string name="empty_debts">No active debts or loans.</string>
+</resources>
